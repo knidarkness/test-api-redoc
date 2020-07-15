@@ -5,7 +5,7 @@ lint:
     - recommended
   rules:
     operation-2xx-response: warn
- referenceDocs:
+referenceDocs:
   showConsole: true
   layout:
     scope: section
