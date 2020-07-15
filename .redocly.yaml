@@ -1,0 +1,17 @@
+apiDefinitions:
+  main: petstore.yaml
+lint:
+  extends:
+    - recommended
+  rules:
+    operation-2xx-response: warn
+ referenceDocs:
+  showConsole: true
+  layout:
+    scope: section
+  routingStrategy: browser
+  theme:
+    rightPanel:
+      backgroundColor: '#263238'
+    links:
+      color: '#6CC496'

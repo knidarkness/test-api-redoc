@@ -1,0 +1,22 @@
+{
+  "name": "test-api-redoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knidarkness/test-api-redoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knidarkness/test-api-redoc/issues"
+  },
+  "homepage": "https://github.com/knidarkness/test-api-redoc#readme",
+  "dependencies": {
+    "@redocly/openapi-cli": "^1.0.0-beta.4"
+  }
+}
