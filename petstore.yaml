@@ -3,8 +3,7 @@ openapi: "3.0.0"
 info:
   version: 1.0.0
   title: Swagger Petstore
-  description:
-    $ref: ./description.md
+  description: asfkfjsaskf
   license:
     name: MIT
     url: google.com
