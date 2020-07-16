@@ -5,6 +5,7 @@ lint:
     - recommended
   rules:
     operation-2xx-response: warn
+    spec: warn
 referenceDocs:
   showConsole: true
   layout:
